@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/TravelTailwind/static/css/main.31005c2a.css",
-    "main.js": "/TravelTailwind/static/js/main.3170414d.js",
+    "main.css": "/TravelTailwind/static/css/main.02fc070d.css",
+    "main.js": "/TravelTailwind/static/js/main.c2204b6a.js",
     "static/media/p3.jpg": "/TravelTailwind/static/media/p3.8a643fa68bca11d54f50.jpg",
     "static/media/p2.jpg": "/TravelTailwind/static/media/p2.a3d4adbca045908d2393.jpg",
+    "static/media/surf.jpg": "/TravelTailwind/static/media/surf.df90d1875d04faf38260.jpg",
     "static/media/p1.jpg": "/TravelTailwind/static/media/p1.f390fcddb7a255d11c2f.jpg",
     "static/media/sg.jpg": "/TravelTailwind/static/media/sg.f7b5208c37c8bc8ed7ee.jpg",
     "static/media/bg.jpg": "/TravelTailwind/static/media/bg.523fb47fde2fe687e5b6.jpg",
+    "static/media/ply.png": "/TravelTailwind/static/media/ply.57e4478c590130dbef23.png",
     "index.html": "/TravelTailwind/index.html",
-    "main.31005c2a.css.map": "/TravelTailwind/static/css/main.31005c2a.css.map",
-    "main.3170414d.js.map": "/TravelTailwind/static/js/main.3170414d.js.map"
+    "main.02fc070d.css.map": "/TravelTailwind/static/css/main.02fc070d.css.map",
+    "main.c2204b6a.js.map": "/TravelTailwind/static/js/main.c2204b6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.31005c2a.css",
-    "static/js/main.3170414d.js"
+    "static/css/main.02fc070d.css",
+    "static/js/main.c2204b6a.js"
   ]
 }
